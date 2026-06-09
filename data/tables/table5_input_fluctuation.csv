@@ -1,0 +1,6 @@
+Method,Post-disturbance RMSE (V),Overshoot (%),Recovery time (ms),Final-window error (V)
+PI,56.97,60.00,>2000,49.40
+PI-AW,58.27,60.00,>2000,46.01
+SMC,11.81,14.42,>2000,9.15
+DDPG,11.35,13.56,500.0,9.31
+Proposed TD3,3.57,3.30,0.0,1.04

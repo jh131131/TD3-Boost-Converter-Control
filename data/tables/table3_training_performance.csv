@@ -1,0 +1,4 @@
+Training stage,Average reward,Voltage RMSE (V),Average duty variation
+Initial stage,-0.35,5.65,0.0628
+Middle stage,-0.07,3.99,0.0560
+Final stage,-0.07,3.83,0.0585

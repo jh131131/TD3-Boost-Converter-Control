@@ -1,0 +1,13 @@
+﻿scenario,method,mean_abs_error,max_abs_error,final_abs_error,file
+load,PI,17.69334487772585,120.0,66.56427462993474,results_recomputed_metrics\trajectory_load_PI.csv
+load,SMC,8.73419248692309,43.8851291249116,5.002553490725774,results_recomputed_metrics\trajectory_load_SMC.csv
+load,DDPG,11.809784011479643,32.11279289926367,8.815060998232468,results_recomputed_metrics\trajectory_load_DDPG.csv
+load,Proposed TD3,5.894099839852548,9.326271249621755,6.899766253294075,results_recomputed_metrics\trajectory_load_Proposed_TD3.csv
+input,PI,48.682770425273695,120.0,49.65062035927696,results_recomputed_metrics\trajectory_input_PI.csv
+input,SMC,9.54407569082364,28.841698912978188,13.909840354451006,results_recomputed_metrics\trajectory_input_SMC.csv
+input,DDPG,9.559220086602497,27.11178357902179,8.213809586620528,results_recomputed_metrics\trajectory_input_DDPG.csv
+input,Proposed TD3,2.582592909139825,6.596612762727574,0.39489364217149614,results_recomputed_metrics\trajectory_input_Proposed_TD3.csv
+param,PI,48.965598509371944,120.0,70.7717966213753,results_recomputed_metrics\trajectory_param_PI.csv
+param,SMC,9.396670563213451,25.92237231428905,2.4504013803177145,results_recomputed_metrics\trajectory_param_SMC.csv
+param,DDPG,9.511424554687624,20.09906479544719,14.494428901201445,results_recomputed_metrics\trajectory_param_DDPG.csv
+param,Proposed TD3,0.7760465609646325,12.296201229095487,0.7698195504632679,results_recomputed_metrics\trajectory_param_Proposed_TD3.csv

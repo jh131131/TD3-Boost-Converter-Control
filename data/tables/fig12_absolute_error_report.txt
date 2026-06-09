@@ -1,0 +1,12 @@
+load,PI,mean_abs_error=17.693345,max_abs_error=120.000000
+load,SMC,mean_abs_error=8.734192,max_abs_error=43.885129
+load,DDPG,mean_abs_error=11.809784,max_abs_error=32.112793
+load,Proposed TD3,mean_abs_error=5.894100,max_abs_error=9.326271
+input,PI,mean_abs_error=48.682770,max_abs_error=120.000000
+input,SMC,mean_abs_error=9.544076,max_abs_error=28.841699
+input,DDPG,mean_abs_error=9.559220,max_abs_error=27.111784
+input,Proposed TD3,mean_abs_error=2.582593,max_abs_error=6.596613
+param,PI,mean_abs_error=48.965599,max_abs_error=120.000000
+param,SMC,mean_abs_error=9.396671,max_abs_error=25.922372
+param,DDPG,mean_abs_error=9.511425,max_abs_error=20.099065
+param,Proposed TD3,mean_abs_error=0.776047,max_abs_error=12.296201

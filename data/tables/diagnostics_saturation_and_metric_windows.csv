@@ -1,0 +1,16 @@
+Scenario,Method,Max vo after disturbance (V),Min vo after disturbance (V),Saturation-limited peak,RMSE start time (s),Recovery start time (s),Band ratio,Final window (s)
+load,PI,320.00,109.60,True,0.6,1.3,0.05,0.2
+load,PI-AW,320.00,168.75,True,0.6,1.3,0.05,0.2
+load,SMC,243.89,179.34,False,0.6,1.3,0.05,0.2
+load,DDPG,232.11,168.95,False,0.6,1.3,0.05,0.2
+load,Proposed TD3,207.19,190.67,False,0.6,1.3,0.05,0.2
+input,PI,320.00,107.39,True,0.5,1.5,0.05,0.2
+input,PI-AW,320.00,180.95,True,0.5,1.5,0.05,0.2
+input,SMC,228.84,183.38,False,0.5,1.5,0.05,0.2
+input,DDPG,227.11,180.98,False,0.5,1.5,0.05,0.2
+input,Proposed TD3,206.60,194.03,False,0.5,1.5,0.05,0.2
+param,PI,320.00,105.30,True,0.6,1.6,0.05,0.2
+param,PI-AW,320.00,179.40,True,0.6,1.6,0.05,0.2
+param,SMC,222.06,188.85,False,0.6,1.6,0.05,0.2
+param,DDPG,220.10,183.62,False,0.6,1.6,0.05,0.2
+param,Proposed TD3,200.77,200.77,False,0.6,1.6,0.05,0.2

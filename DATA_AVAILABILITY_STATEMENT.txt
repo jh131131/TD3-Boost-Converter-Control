@@ -1,0 +1,5 @@
+Data availability statement for manuscript
+
+The simulation data, source code, trained model, and related files generated and analysed during the current study are available in the GitHub repository at https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.
+
+Replace the URL above with your public GitHub repository link before submission.
