@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+\centering
+\caption{Statistical performance of the proposed TD3 controller under six random seeds.}
+\label{tab:td3_seed_statistics}
+\begin{tabular}{llll}
+\hline
+Scenario & RMSE (V) & Overshoot (\%) & Final-window error (V) \\
+\hline
+Load disturbance & 8.82 $\pm$ 1.01 & 3.94 $\pm$ 0.56 & 6.91 $\pm$ 1.57 \\
+Input voltage fluctuation & 4.96 $\pm$ 0.57 & 3.91 $\pm$ 0.52 & 1.76 $\pm$ 0.44 \\
+Parameter variation & 1.49 $\pm$ 1.07 & 0.69 $\pm$ 0.60 & 1.49 $\pm$ 1.07 \\
+\hline
+\end{tabular}
+\end{table}
