@@ -1,5 +1,1 @@
-Data availability statement for manuscript
-
-The simulation data, source code, trained model, and related files generated and analysed during the current study are available in the GitHub repository at https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.
-
-Replace the URL above with your public GitHub repository link before submission.
+The simulation data, source code, trained actor model, generated trajectory data, six-random-seed robustness results, and numerical results used to produce the tables and figures in this study are available in this public repository. The updated six-seed robustness files are provided in data/six_seed/, and the updated Fig. 8 file is provided in figures/fig8_training_convergence_six_seed.jpeg.
