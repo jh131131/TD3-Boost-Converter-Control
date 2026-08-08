@@ -1,0 +1,10 @@
+scenario,metric,p_exact
+load,RMSE,0.5
+load,Overshoot,0.125
+load,Final-window error,0.625
+input,RMSE,0.9375
+input,Overshoot,0.90625
+input,Final-window error,0.84375
+param,RMSE,0.84375
+param,Overshoot,1.0
+param,Final-window error,0.84375
